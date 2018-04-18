@@ -6,3 +6,8 @@
 
 # virtualenv
 venv/
+
+# sqlite
+db.sqlite3
+
+**/__pycache__
